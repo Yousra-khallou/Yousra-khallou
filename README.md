@@ -26,5 +26,3 @@ Currently a 2nd-year Data Engineering student passionate about AI, Big Data, and
 
 ---
 
-## 📈 GitHub Stats
-![Usra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousra-khallou&show_icons=true&theme=radical)
