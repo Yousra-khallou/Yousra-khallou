@@ -50,10 +50,9 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Yousra-khallou&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra-khallou&layout=compact&theme=radical" height="165"/>
-</p>
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Yousra-khallou&theme=radical)
+
 
 ---
 
