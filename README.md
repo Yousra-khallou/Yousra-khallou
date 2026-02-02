@@ -1,11 +1,7 @@
-![Data Engineering](https://www.springboard.com/library/static/a157b5c003f08af17664a602ba426b05/8b619/data-engineering-on-azure.jpg)
 
-<h1 align="center">Hi 👋, I'm Usra</h1>
+
+<h1 align="center">Hi 👋, I'm Yousra Khallou</h1>
 <h3 align="center">2nd-year Data Engineering Student | Data • Analytics • Software</h3>
-
-<img align="right" alt="coding" width="380"
-src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/>
-
 ---
 
 ### 👩‍💻 About Me
@@ -33,8 +29,6 @@ src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/
 ---
 
 ### 📂 Featured Projects
-🔹 **Data Detective Challenge** – Exploratory data analysis to identify a suspect  
-🔹 **Medical Data Management App** – Tkinter & MySQL application  
 🔹 **Regression & Classification Models** – Model comparison & hyperparameter tuning  
 
 👉 *More projects available on my repositories.*
