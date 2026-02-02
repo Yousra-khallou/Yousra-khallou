@@ -8,7 +8,9 @@
 🎓 **2nd-year Data Engineering student** at the **National School of Applied Sciences of Al Hoceima (Morocco)**.  
 📊 Strong foundation in **Data Science, Analytics, and Software Development**.  
 🚀 Passionate about **turning data into meaningful and scalable solutions**.  
+🔍 **Seeking a PFA internship** to contribute to impactful projects and deepen expertise in **Data Engineering and Analytics**.  
 📚 Curious, motivated, and always learning new technologies in the data ecosystem.
+
 
 ---
 
