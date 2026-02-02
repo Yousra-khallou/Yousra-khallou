@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yousra
+# Hi there 👋, I'm Yousra Khallou
 
 ### Data Engineering Student | AI & Big Data Enthusiast
 
