@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/deviconsicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+
 </p>
 
 ---
@@ -42,7 +42,7 @@
 <a href="https://www.linkedin.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
-<a href="mailto:usra@example.com">
+<a href="mailto:khallouyoussra84@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
 </a>
 </p>
