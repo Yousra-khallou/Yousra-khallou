@@ -16,7 +16,7 @@ Currently a 2nd-year Data Engineering student passionate about AI, Big Data, and
 ---
 
 ## 💻 Projects
-- **[Regression & Classification Notebooks](https://github.com/Usra/ML-Notebooks)** – Comparing models with hyperparameter tuning.
+- **[Regression & Classification Notebooks](https://github.com/Yousra-khallou/ml-regression-classification)** – Comparing models with hyperparameter tuning.
 
 
 ## 📫 Contact Me
