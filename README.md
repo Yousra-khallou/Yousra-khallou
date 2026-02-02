@@ -49,9 +49,6 @@
 
 ---
 
-### 📈 GitHub Stats
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Yousra-khallou&theme=radical)
 
 
 ---
