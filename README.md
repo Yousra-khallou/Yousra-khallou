@@ -64,7 +64,7 @@ Deployed as two FastAPI services on HuggingFace Spaces (Docker) + React dashboar
 ---
 
 ### Distributed Marketplace Catalog — MongoDB Sharding
-> *Distributed databases · MongoDB sharded cluster · Kafka · Docker*
+> *Distributed databases · MongoDB sharded cluster · RabbitMq · Docker*
 
 Distributed product catalog for a marketplace (Olist dataset) built on a MongoDB sharded cluster.
 Implemented a Kafka producer/consumer pipeline to ingest and route catalog events across shards, with a Python dashboard for real-time monitoring.
@@ -125,10 +125,6 @@ Implemented a Kafka producer/consumer pipeline to ingest and route catalog event
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
-
-<p align="center">
-  <em>Open to collaboration, internship opportunities, and new challenges in data engineering.</em>
-</p>
 
 <p align="center">
   <em>Always open to learning, collaboration, internship opportunities, and new challenges in data engineering.</em>
