@@ -1,4 +1,4 @@
-<h1 align="center">Yousra Khallou</h1>
+<h1 align="center">Hi 👋, I'm Yousra Khallou</h1>
 
 <p align="center">
   <strong>Data Engineering Student · ENSA Al Hoceima</strong><br/>
@@ -90,14 +90,25 @@ Implemented a Kafka producer/consumer pipeline to ingest and route catalog event
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
 ![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat&logo=minio&logoColor=white)
 
 **Machine Learning & AI**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat&logo=spacy&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Backend & Frameworks**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Databases**
 
@@ -110,7 +121,6 @@ Implemented a Kafka producer/consumer pipeline to ingest and route catalog event
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
@@ -118,4 +128,8 @@ Implemented a Kafka producer/consumer pipeline to ingest and route catalog event
 
 <p align="center">
   <em>Open to collaboration, internship opportunities, and new challenges in data engineering.</em>
+</p>
+
+<p align="center">
+  <em>Always open to learning, collaboration, internship opportunities, and new challenges in data engineering.</em>
 </p>
