@@ -1,11 +1,14 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,20&animation=twinkling&height=220&section=header&text=Yousra%20Khallou&fontSize=42&fontColor=ffffff&desc=Data%20Engineering%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descSize=16&descAlignY=68" width="100%" alt="Header Banner"/>
+  <!-- Animated Header Banner (Rose Royale Palette) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=602437,8a2846,b9375e,e05780,ffcad4&animation=twinkling&height=220&section=header&text=Yousra%20Khallou&fontSize=42&fontColor=ffffff&desc=Data%20Engineering%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descSize=16&descAlignY=68" width="100%" alt="Header Banner"/>
 
+  <h3>🎓 Final-Year Data Engineering Student @ ENSA Al Hoceima</h3>
+  
   <p align="center">
-    <strong>🎓 Final-Year Data Engineering Student @ ENSA Al Hoceima</strong><br/>
-    <em>Big Data Distributed Pipelines · Multimodal Deep Learning & MedVQA · Generative AI & Hybrid RAG</em>
+    <code>🌊 Big Data &amp; Distributed Systems</code> &nbsp;•&nbsp; 
+    <code>🧠 Machine Learning &amp; Deep Learning</code> &nbsp;•&nbsp; 
+    <code>⚡ Generative AI &amp; LLMs</code>
   </p>
 
   <!-- Social Badges -->
@@ -23,7 +26,7 @@
     </a>
     &nbsp;
     <a href="mailto:khallouyoussra84@gmail.com">
-      <img src="https://img.shields.io/badge/Status-Seeking_PFE_2027-602437?style=for-the-badge&logo=target&logoColor=white" alt="Status"/>
+      <img src="https://img.shields.io/badge/Status-Seeking_PFE_2027_%7C_National_%26_International-602437?style=for-the-badge&logo=target&logoColor=white" alt="Status"/>
     </a>
   </p>
 
@@ -37,12 +40,14 @@
 name: Yousra Khallou
 role: Data Engineering & AI Student (Final Year)
 institution: National School of Applied Sciences (ENSA) of Al Hoceima, Morocco
-passion: "Turning complex data streams & multimodal signals into resilient, intelligent systems 🌸"
+passion: "Turning complex data streams & intelligent algorithms into resilient, scalable systems 🌸"
+target: 6-Month End-of-Studies Internship (PFE) starting early 2027 🎯
+scope: National & International Opportunities (Morocco & Worldwide / Relocation & Remote) 🌍
+motivation: "Deeply driven, adaptable, and excited to embark on impactful engineering adventures worldwide!"
 core_domains:
-  - High-Throughput Distributed Processing (Spark, Kafka, Flink, Lakehouses)
-  - Multimodal Deep Learning & Computer Vision (MedVQA, Transformers, PyTorch)
-  - Generative AI & Hybrid Vector RAG (Qdrant, LLMs, Re-ranking)
-target: 6-Month End-of-Studies Internship (PFE) starting January 2027 🎯 (Open to Relocation & Remote)
+  - Distributed Data Processing & Streaming (Spark, Kafka, Flink, Lakehouses)
+  - Deep Learning & Computer Vision (PyTorch, Vision-Language Transformers, CNNs)
+  - Generative AI & Vector Search (RAG, Embeddings, LLMs, Re-ranking)
 ```
 
 ---
@@ -69,10 +74,10 @@ target: 6-Month End-of-Studies Internship (PFE) starting January 2027 🎯 (Open
         <em>"Multimodal intelligence, predictive modeling & Generative AI."</em>
       </p>
       <ul align="left">
-        <li><strong>Multimodal Deep Learning:</strong> Medical VQA (MedVQA), Vision-Language alignment, PyTorch.</li>
+        <li><strong>Multimodal Deep Learning:</strong> Vision-Language Alignment, Cross-Attention Architectures, PyTorch.</li>
         <li><strong>Predictive ML:</strong> Supervised pipelines, XGBoost, Scikit-Learn, SVD collaborative filtering.</li>
-        <li><strong>Transformer NLP:</strong> Multilingual DistilBERT, Sentence-BERT semantic search & sentiment analysis.</li>
-        <li><strong>Generative AI & RAG:</strong> Dense/Sparse hybrid retrieval, Qdrant Vector DB & semantic cross-encoders.</li>
+        <li><strong>Transformer NLP:</strong> Transformer Models, Semantic Embeddings & Sentiment Analysis.</li>
+        <li><strong>Generative AI & RAG:</strong> Dense/Sparse Hybrid Retrieval, Qdrant Vector DB & Semantic Re-ranking.</li>
       </ul>
     </td>
   </tr>
@@ -246,7 +251,8 @@ target: 6-Month End-of-Studies Internship (PFE) starting January 2027 🎯 (Open
 <div align="center">
 
   <p>
-    I am actively looking for exciting <strong>Data Engineering</strong> & <strong>AI / Machine Learning</strong> challenges, research opportunities, and my <strong>PFE Internship (Jan 2027)</strong>!
+    I am actively looking for an impactful <strong>End-of-Studies Internship (PFE 2027)</strong> in <strong>Data Engineering</strong> &amp; <strong>AI / Machine Learning</strong>.<br/>
+    <em>🌍 Open to <strong>National &amp; International</strong> opportunities (Relocation &amp; Remote) — deeply motivated and eager to embark on this technical adventure!</em>
   </p>
 
   <a href="https://www.linkedin.com/in/yousra-khallou">
@@ -263,6 +269,6 @@ target: 6-Month End-of-Studies Internship (PFE) starting January 2027 🎯 (Open
 
   <br/><br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,20&animation=twinkling&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=602437,8a2846,b9375e,e05780,ffcad4&animation=twinkling&height=100&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
