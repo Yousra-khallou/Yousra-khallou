@@ -3,14 +3,12 @@
   <!-- Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,20&animation=twinkling&height=220&section=header&text=Yousra%20Khallou&fontSize=42&fontColor=ffffff&desc=Data%20Engineering%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descSize=16&descAlignY=68" width="100%" alt="Header Banner"/>
 
-  <!-- Dynamic Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=E05780&center=true&vCenter=true&multiline=false&width=620&height=40&lines=Final-Year+Data+Engineering+Student+%40+ENSAH+🎓;Building+Distributed+Streaming+Pipelines+⚙️;Training+Multimodal+Deep+Learning+%26+MedVQA+Models+🩺;Architecting+Hybrid+RAG+%26+Generative+AI+Systems+✨;Seeking+6-Month+PFE+Internship+(Jan+2027)+🚀" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <strong>🎓 Final-Year Data Engineering Student @ ENSA Al Hoceima</strong><br/>
+    <em>Big Data Distributed Pipelines · Multimodal Deep Learning & MedVQA · Generative AI & Hybrid RAG</em>
+  </p>
 
-  <br/>
-
-  <!-- Social Badges with Aesthetic Soft Glow -->
+  <!-- Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/yousra-khallou">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,11 +18,11 @@
       <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     &nbsp;
-    <a href="https://telecom-retention-system.vercel.app">
-      <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    <a href="https://github.com/Yousra-khallou">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     &nbsp;
-    <a href="https://github.com/Yousra-khallou">
+    <a href="mailto:khallouyoussra84@gmail.com">
       <img src="https://img.shields.io/badge/Status-Seeking_PFE_2027-602437?style=for-the-badge&logo=target&logoColor=white" alt="Status"/>
     </a>
   </p>
@@ -226,21 +224,19 @@ target: 6-Month End-of-Studies Internship (PFE) starting January 2027 🎯 (Open
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Profile Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Yousra-khallou&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&title_color=e05780&icon_color=b9375e&text_color=9a7d88&bg_color=fff7f8" alt="Yousra's GitHub Stats" />
-      </td>
-      <td>
-        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousra-khallou&layout=compact&theme=rose_pine&hide_border=true&title_color=e05780&text_color=9a7d88&bg_color=fff7f8&langs_count=7" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousra-khallou&theme=rose_pine&hide_border=true&stroke=e05780&ring=b9375e&fire=e05780&currStreakNum=602437&sideNums=602437&currStreakLabel=e05780&dates=9a7d88&background=fff7f8" alt="GitHub Streak" />
+  <!-- Activity & Metrics Badges (100% Reliable & Fast) -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/Yousra-khallou?label=Followers&style=for-the-badge&color=602437&logo=github&logoColor=white" alt="Followers" />
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/Yousra-khallou?label=Total%20Stars&style=for-the-badge&color=8a2846&logo=apachespark&logoColor=white" alt="Stars" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Contributions-Active_Builder-b9375e?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
+  </p>
+
 </div>
 
 ---
